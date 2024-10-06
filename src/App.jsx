@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      hello
+      bich im a stargirl
     </>
   )
 }
